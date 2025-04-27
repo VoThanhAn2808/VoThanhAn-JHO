@@ -10,5 +10,5 @@ Hello! I am **Võ Thành An**. This is the test project I completed for JHO.
   cd VoThanhAn-JHO
 3. **Install dependencies**:
   npm i
-4.**Start**:
+4. **Start**:
   npm run dev
