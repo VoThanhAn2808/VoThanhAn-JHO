@@ -12,3 +12,6 @@ Hello! I am **Võ Thành An**. This is the test project I completed for JHO.
   npm i
 4. **Start**:
   npm run dev
+5. **Account**:
+ email: admin@example.com,
+ pass: 123456
